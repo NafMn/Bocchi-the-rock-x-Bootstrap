@@ -6,3 +6,6 @@ This repository is for fulfilling web design practicum assignments..
   21104410067
   <br>
   Teknik Informatika B
+  </b>
+  
+  URL : https://nafmn.github.io/Bocchi-the-rock-x-Bootstrap/
