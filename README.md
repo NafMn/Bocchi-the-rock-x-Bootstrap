@@ -4,3 +4,5 @@ This repository is for fulfilling web design practicum assignments..
 
 <b>Mohamad Nafis
   21104410067
+  <br>
+  Teknik Informatika B
